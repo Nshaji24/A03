@@ -1,17 +1,29 @@
 # A03
 
 How to use Git, GitHub, Webstorm:
+
 Step 1: Download and install the latest Git from https://git-scm.com/downloads.
+
 Step 2: Open Webstorm and click on settings
+
 Step 3: Under Settings go to "VCS" nad click on GIT.
+
 Step 4: Click "Test" and if Git is installed correctly you will get a message " Git Executed Successfully"
+
 Step 5: Create a new project in Webstorm and name it whatever you like
+
 Step 6: Click file at the top left , click "New" ,create a new HTML file and name the file index
+
 Step 7: Click "VCS", then select "Import to Version Control", and select "Create Git Repository"
+
 Step 8: Click OK and commit changes to the Git by Selecting "VCS", Selecting "Git", and "Commit File"
+
 Step 9: Click Commit. You will have to enter a commit message and then a dialog box will open
+
 Step 10: Enter a username and email
+
 Step 11: To share the project on GitHub click "VCS", then "import to version control" , and  then "Share project on Github"
+
 Step 12: Click Share and if it worked you will see a message "Successfully shared project on GitHub"
 
 Definitions:
